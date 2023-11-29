@@ -1,5 +1,4 @@
 # AnalySeals
-## CYUT Graduation Topic
 
 ## 1. Update chromedriver
 Go to https://chromedriver.chromium.org/home to update chromedriver to a version that matches the current Google Chrome.
