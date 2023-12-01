@@ -5,5 +5,3 @@ Go to https://chromedriver.chromium.org/home to update chromedriver to a version
 
 ## Recreate the CoreData database
 You can do this in Xcode.
-
-###### Imageset to 'M'
